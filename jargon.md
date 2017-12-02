@@ -12,5 +12,7 @@ Merge - Updating files by incorporating the changes introduced in new commits.
 
 Push - Sending commits from a local repository to a remote repository.
 
+Pull - Retrieving commits from a remote repository and merging them into a local repository.
+
 
 

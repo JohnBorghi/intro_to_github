@@ -14,5 +14,10 @@ Push - Sending commits from a local repository to a remote repository.
 
 Pull - Retrieving commits from a remote repository and merging them into a local repository.
 
+Branch - A parallel version of a repository
+
+Fork - A copy of another user's repository.
+
+Pull Request - A message sent by a Github user requesting to merge the commits in their remote repository into another user's repository.
 
 
